@@ -1,0 +1,54 @@
+\documentclass[11pt]{article}
+
+\usepackage{sectsty}
+\usepackage{graphicx}
+
+% Margins
+\topmargin=-0.45in
+\evensidemargin=0in
+\oddsidemargin=0in
+\textwidth=6.5in
+\textheight=9.0in
+\headsep=0.25in
+
+\title{ DATASCI2G03 Project Proposal: Creating a model for Trypanosome infections }
+\author{ Alexander Turco }
+\date{\today}
+
+\begin{document}
+	\maketitle	
+	\pagebreak
+	
+	% Optional TOC
+	% \tableofcontents
+	% \pagebreak
+	
+	%--Paper--
+	
+	\section{Modelling Trypanosome Infections in c++}
+	
+	Being a student in the department of Biology, I felt as though an appropriate topic (in a general sense) for me would be modelling an infection. More specifically, I have come across a paper by \emph{Tyler et al.} in which various mathematical models were developed and tested in order to better understand Trypanosome infections. Trypanosomes are single celled eukaryotic parasites which maintain a chronic parasitaemia (parasites present in the blood) in a variety of mammalian hosts (Tyler et al, 2017). The way in which these Trypanosomes are able to infect mammalian hosts stems from a balance between Trypanosome proliferation, differentiation and cell death (Tyler et al, 2017). In the study, researchers utilized data pertaining to the number of parasite cells/ml of blood in infected mice. 
+	
+	The way in which the researchers modelled these complex interactions of cell proliferation, differentiation, and cell death was based upon two types of cells that were measured in the blood samples from the mice. The first type of cells are called 'slender cells' and these multiply exponentially in the host and the second type of cells are called 'stumpy' cells and these no longer divide. Slender cells can differentiate into stumpy cells and this is essentially initiated when the cell concentration of these slender cells becomes high (Tyler et al, 2017). This differentiation of slender cells to stumpy cells will stop the exponential growth of slender cells and prevent these parasites from killing the host in a quick manner.
+	
+	The concentration of slender and stumpy cells was modelled by \emph{Tyler et al.} using two differential equations, one for each cell type.
+	
+	\[\frac{dX}{dT} = (r-f)X\]
+	
+	\[\frac{dY}{dT} = fX-mY\] 
+	$X$ is the concentration of slender cells at time t \newline
+	$Y$ is the concentration of stumpy cells at time t \newline
+	$r$ is the rate of division of slender cells \newline
+	$f$ is the rate of differentiation of slender-to-stumpy cells \newline
+	$m$ is the mortality rate of stumpy cells \newline
+	
+	In order to achieve a solution to the differential equations, the assumption is made that $f = f_0(X+Y)$ which means that f is proportional to the TOTAL population size. We can insert this into the equations above and get two slightly different equations.
+	
+	\[\frac{dX}{dT} = (r-f_0(X+Y))X\]
+	
+	\[\frac{dY}{dT} = f_0(X+Y)X-mY\]
+	Now, these equations are able to be solved by utilizing a fourth-order Runge-Kutta method. The parameters $r$ and $m$ have already been mentioned above, but $f_0$ and $X_0$ are two parameters that are used to set the initial conditions and create a solution using a fourth-order Runge-Kutta method. This method can be implemented in c++ and in order to see if the program behaves correctly, I will use plots to visualize the populations of the two different cells, as well as the total population (X+Y). I can adjust parameters such as the rates of division of slender cells and the rate of differentiation of slender-to-stumpy cells in order to see how this affects the population of cells.
+	
+	
+	
+\end{document}
