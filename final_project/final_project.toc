@@ -1,0 +1,9 @@
+\contentsline {section}{\numberline {1}A Brief Background}{3}{section.1}%
+\contentsline {section}{\numberline {2}Methods}{3}{section.2}%
+\contentsline {section}{\numberline {3}Testing the Program}{4}{section.3}%
+\contentsline {section}{\numberline {4}Results and Extensions}{5}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Co-infection Model}{5}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Results Using Parameters $r = 0.11$, $r_2 = 0.20$, $m = 0.012$, $m_2 = 0.02$, $f_0 = 1.2e-9$, $X_0 = 3910.00$, $Y_0= 1e-10$, $C_0= 3.91e9$}{6}{subsection.4.2}%
+\contentsline {section}{\numberline {5}Conclusions and Future Work}{7}{section.5}%
+\contentsline {section}{\numberline {6}References}{8}{section.6}%
+\contentsline {section}{\numberline {7}\texttt {C++} Code}{9}{section.7}%

@@ -1,0 +1,244 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{sanches2019trypanosoma}{article}{}
+      \name{author}{9}{}{%
+        {{un=0,uniquepart=base,hash=b6cdabe5d61bd69ede53677304eb9eef}{%
+           family={Sanches-Vaz},
+           familyi={S\bibinithyphendelim V\bibinitperiod},
+           given={Margarida},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7d8473d70cb787909a33e8d959c368e8}{%
+           family={Temporão},
+           familyi={T\bibinitperiod},
+           given={Adriana},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4c4ad483b0ccdbd4e94654c58cfc83d8}{%
+           family={Luis},
+           familyi={L\bibinitperiod},
+           given={Rafael},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=35198e1f2e40a061af573f8d28ef10cf}{%
+           family={Nunes-Cabaço},
+           familyi={N\bibinithyphendelim C\bibinitperiod},
+           given={Helena},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a78584f43338247a8042a37218acf3f2}{%
+           family={Mendes},
+           familyi={M\bibinitperiod},
+           given={António\bibnamedelima M},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=231de59c4f104a1412ac6e666d91b70e}{%
+           family={Goellner},
+           familyi={G\bibinitperiod},
+           given={Sarah},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7eac6f5a0be7ff51734acfc7ef4088bd}{%
+           family={Carvalho},
+           familyi={C\bibinitperiod},
+           given={Tânia},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7271130931ea54ff0edc2d5de878a476}{%
+           family={Figueiredo},
+           familyi={F\bibinitperiod},
+           given={Luisa\bibnamedelima M},
+           giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=648faffacd4bfda9ad974f759cf430cf}{%
+           family={Prudêncio},
+           familyi={P\bibinitperiod},
+           given={Miguel},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Public Library of Science San Francisco, CA USA}%
+      }
+      \strng{namehash}{0e5b5c26d1be0f262acdcd975210c89e}
+      \strng{fullhash}{9d0eb0b4cbe8513cd6302dec3c85087e}
+      \strng{bibnamehash}{0e5b5c26d1be0f262acdcd975210c89e}
+      \strng{authorbibnamehash}{0e5b5c26d1be0f262acdcd975210c89e}
+      \strng{authornamehash}{0e5b5c26d1be0f262acdcd975210c89e}
+      \strng{authorfullhash}{9d0eb0b4cbe8513cd6302dec3c85087e}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{PLoS Pathogens}
+      \field{number}{11}
+      \field{title}{Trypanosoma brucei infection protects mice against malaria}
+      \field{volume}{15}
+      \field{year}{2019}
+      \field{pages}{e1008145}
+      \range{pages}{-1}
+    \endentry
+    \entry{turner1995replication}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=7432e593294215a062cb020c1bcbb1d0}{%
+           family={Turner},
+           familyi={T\bibinitperiod},
+           given={CMR},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cd37634e8cac5c8f79edfcd0d9e55959}{%
+           family={Aslam},
+           familyi={A\bibinitperiod},
+           given={N},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=53f741ae624ead08de88edabd74c53ba}{%
+           family={Dye},
+           familyi={D\bibinitperiod},
+           given={C},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{fe5276a467669e18870f33f8b0f822e1}
+      \strng{fullhash}{783c66a5ede946ae56fe1117485d4726}
+      \strng{bibnamehash}{783c66a5ede946ae56fe1117485d4726}
+      \strng{authorbibnamehash}{783c66a5ede946ae56fe1117485d4726}
+      \strng{authornamehash}{fe5276a467669e18870f33f8b0f822e1}
+      \strng{authorfullhash}{783c66a5ede946ae56fe1117485d4726}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Parasitology}
+      \field{number}{3}
+      \field{title}{Replication, differentiation, growth and the virulence of Trypanosoma brucei infections}
+      \field{volume}{111}
+      \field{year}{1995}
+      \field{pages}{289\bibrangedash 300}
+      \range{pages}{12}
+    \endentry
+    \entry{tyler2001limitation}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=59a111688526a929e34b233b80c177ae}{%
+           family={Tyler},
+           familyi={T\bibinitperiod},
+           given={Kevin\bibnamedelima M},
+           giveni={K\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c2efcdfe3a87ab44d2a602d46036219f}{%
+           family={Higgs},
+           familyi={H\bibinitperiod},
+           given={Paul\bibnamedelima G},
+           giveni={P\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=df8d5b6d7b103342902dd8e48dbc86c6}{%
+           family={Matthews},
+           familyi={M\bibinitperiod},
+           given={Keith\bibnamedelima R},
+           giveni={K\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cf7388059d50fd5140cf96ccae6061c0}{%
+           family={Gull},
+           familyi={G\bibinitperiod},
+           given={Keith},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {The Royal Society}%
+      }
+      \strng{namehash}{1f2bd250b2a05ab1eada245815a661b3}
+      \strng{fullhash}{3f9f579cfe156a64cdcfce6fde0d41dd}
+      \strng{bibnamehash}{1f2bd250b2a05ab1eada245815a661b3}
+      \strng{authorbibnamehash}{1f2bd250b2a05ab1eada245815a661b3}
+      \strng{authornamehash}{1f2bd250b2a05ab1eada245815a661b3}
+      \strng{authorfullhash}{3f9f579cfe156a64cdcfce6fde0d41dd}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the Royal Society of London. Series B: Biological Sciences}
+      \field{number}{1482}
+      \field{title}{Limitation of Trypanosoma brucei parasitaemia results from density-dependent parasite differentiation and parasite killing by the host immune response}
+      \field{volume}{268}
+      \field{year}{2001}
+      \field{pages}{2235\bibrangedash 2243}
+      \range{pages}{9}
+    \endentry
+    \entry{venter2022parasite}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=fc117fc0157ae494be743a1537d38079}{%
+           family={Venter},
+           familyi={V\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=df8d5b6d7b103342902dd8e48dbc86c6}{%
+           family={Matthews},
+           familyi={M\bibinitperiod},
+           given={Keith\bibnamedelima R},
+           giveni={K\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8f07e5d30cb1ddd90de5486c51e2e177}{%
+           family={Silvester},
+           familyi={S\bibinitperiod},
+           given={Eleanor},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {The Royal Society}%
+      }
+      \strng{namehash}{061bc6349032ca8991a133b4ac09e330}
+      \strng{fullhash}{8d09b032a9d72e534a7268ee3826d056}
+      \strng{bibnamehash}{8d09b032a9d72e534a7268ee3826d056}
+      \strng{authorbibnamehash}{8d09b032a9d72e534a7268ee3826d056}
+      \strng{authornamehash}{061bc6349032ca8991a133b4ac09e330}
+      \strng{authorfullhash}{8d09b032a9d72e534a7268ee3826d056}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the Royal Society B}
+      \field{number}{1967}
+      \field{title}{Parasite co-infection: an ecological, molecular and experimental perspective}
+      \field{volume}{289}
+      \field{year}{2022}
+      \field{pages}{20212155}
+      \range{pages}{1}
+    \endentry
+  \enddatalist
+  \missing{sanches2019trypanosome}
+\endrefsection
+\endinput
+
