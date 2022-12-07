@@ -2351,8 +2351,8 @@
     <bcf:citekey order="4">tyler2001limitation</bcf:citekey>
     <bcf:citekey order="5">tyler2001limitation</bcf:citekey>
     <bcf:citekey order="6">tyler2001limitation</bcf:citekey>
-    <bcf:citekey order="7">turner1995replication</bcf:citekey>
-    <bcf:citekey order="8">tyler2001limitation</bcf:citekey>
+    <bcf:citekey order="7">tyler2001limitation</bcf:citekey>
+    <bcf:citekey order="8">turner1995replication</bcf:citekey>
     <bcf:citekey order="9">tyler2001limitation</bcf:citekey>
     <bcf:citekey order="10">tyler2001limitation</bcf:citekey>
     <bcf:citekey order="11">tyler2001limitation</bcf:citekey>
@@ -2368,8 +2368,8 @@
     <bcf:citekey order="21">tyler2001limitation</bcf:citekey>
     <bcf:citekey order="22">tyler2001limitation</bcf:citekey>
     <bcf:citekey order="23">tyler2001limitation</bcf:citekey>
-    <bcf:citekey order="24">venter2022parasite</bcf:citekey>
-    <bcf:citekey order="25">sanches2019trypanosoma</bcf:citekey>
+    <bcf:citekey order="24">tyler2001limitation</bcf:citekey>
+    <bcf:citekey order="25">venter2022parasite</bcf:citekey>
     <bcf:citekey order="26">sanches2019trypanosoma</bcf:citekey>
     <bcf:citekey order="27">sanches2019trypanosoma</bcf:citekey>
     <bcf:citekey order="28">sanches2019trypanosoma</bcf:citekey>
@@ -2381,12 +2381,13 @@
     <bcf:citekey order="34">sanches2019trypanosoma</bcf:citekey>
     <bcf:citekey order="35">sanches2019trypanosoma</bcf:citekey>
     <bcf:citekey order="36">sanches2019trypanosoma</bcf:citekey>
-    <bcf:citekey order="37">tyler2001limitation</bcf:citekey>
+    <bcf:citekey order="37">sanches2019trypanosoma</bcf:citekey>
     <bcf:citekey order="38">tyler2001limitation</bcf:citekey>
     <bcf:citekey order="39">tyler2001limitation</bcf:citekey>
-    <bcf:citekey order="40">turner1995replication</bcf:citekey>
-    <bcf:citekey order="41">venter2022parasite</bcf:citekey>
-    <bcf:citekey order="42">sanches2019trypanosoma</bcf:citekey>
+    <bcf:citekey order="40">tyler2001limitation</bcf:citekey>
+    <bcf:citekey order="41">turner1995replication</bcf:citekey>
+    <bcf:citekey order="42">venter2022parasite</bcf:citekey>
+    <bcf:citekey order="43">sanches2019trypanosoma</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nyt">
